@@ -18,4 +18,4 @@ Responsive Architecture: A mobile-first, single-page application (SPA) layout wi
 
 UI/UX: Implemented accessible color contrast (Orange/Black/White) and interactive hover states for enhanced user engagement.
 
-Semantic SEO: Structured with HTML5 landmarks (<header>, <main>, <section>) for optimal accessibility and search engine indexing.
+Semantic SEO: Structured with HTML5 landmarks for optimal accessibility and search engine indexing.
