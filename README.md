@@ -12,10 +12,10 @@ Performance: Zero external frameworks/libraries to ensure maximum speed and clea
 
 ### 🚀 Key Features & Implementation
 
-## Logo Engineering: Developed a geometric, cube-inspired icon designed for high legibility at favicon scales.
+Logo Engineering: Developed a geometric, cube-inspired icon designed for high legibility at favicon scales.
 
-## Responsive Architecture: A mobile-first, single-page application (SPA) layout with smooth-scroll navigation.
+Responsive Architecture: A mobile-first, single-page application (SPA) layout with smooth-scroll navigation.
 
-## UI/UX: Implemented accessible color contrast (Orange/Black/White) and interactive hover states for enhanced user engagement.
+UI/UX: Implemented accessible color contrast (Orange/Black/White) and interactive hover states for enhanced user engagement.
 
-## Semantic SEO: Structured with HTML5 landmarks (<header>, <main>, <section>) for optimal accessibility and search engine indexing.
+Semantic SEO: Structured with HTML5 landmarks (<header>, <main>, <section>) for optimal accessibility and search engine indexing.
